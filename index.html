@@ -348,7 +348,6 @@ footer{border-top:1px solid var(--bd);padding:9px 20px;display:flex;justify-cont
         </div>
       </div>
       <button class="btn b-amber" id="btn-load" onclick="loadScreen()">▶ Run Screen</button>
-      <button class="btn b-dim" id="gh-btn" onclick="toggleGHPanel()" title="Connect your GitHub scraper for full coverage">⚙ GitHub</button>
       <select id="mkt-mode" onchange="setMarketMode(this.value)" style="background:var(--bg2);border:1px solid var(--bd2);color:var(--amber);padding:5px 8px;border-radius:2px;font-family:var(--pmono);font-size:9px;outline:none;cursor:pointer" title="Market assumptions affect vacancy, rent haircut and IRR">
         <option value="normal">Market: Normal</option>
         <option value="stressed" selected>Market: Stressed ✓</option>
@@ -431,33 +430,6 @@ footer{border-top:1px solid var(--bd);padding:9px 20px;display:flex;justify-cont
     <span class="fct" id="fct"></span>
   </div>
 
-  <!-- GitHub Config Panel -->
-  <div id="gh-panel" style="display:none;background:var(--bg1);border:1px solid var(--bd2);border-left:3px solid var(--teal2);border-radius:3px;padding:12px 16px;margin-bottom:10px">
-    <div style="font-family:var(--pmono);font-size:9px;color:var(--teal2);letter-spacing:.12em;text-transform:uppercase;margin-bottom:8px;font-weight:700">⬡ Connect GitHub Scraper — All Dubai Areas</div>
-    <div style="font-family:var(--pmono);font-size:9px;color:var(--dim);margin-bottom:10px;line-height:1.7">
-      Enter your GitHub username and repo name. The screen reads <code style="color:var(--amber)">drops.json</code> from your scraper repo — giving you all areas including The Springs, Meadows, Arabian Ranches, with drops as low as 1%.
-    </div>
-    <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
-      <div style="display:flex;flex-direction:column;gap:3px">
-        <label style="font-family:var(--pmono);font-size:8px;color:var(--dim);letter-spacing:.1em;text-transform:uppercase">GitHub Username</label>
-        <input id="gh-user" type="text" placeholder="e.g. johnsmith"
-          style="background:var(--bg2);border:1px solid var(--bd2);color:var(--cream);padding:5px 10px;border-radius:2px;font-family:var(--pmono);font-size:11px;outline:none;width:180px"
-          oninput="previewGHUrl()">
-      </div>
-      <div style="display:flex;flex-direction:column;gap:3px">
-        <label style="font-family:var(--pmono);font-size:8px;color:var(--dim);letter-spacing:.1em;text-transform:uppercase">Repository Name</label>
-        <input id="gh-repo" type="text" placeholder="e.g. dxb-screen"
-          style="background:var(--bg2);border:1px solid var(--bd2);color:var(--cream);padding:5px 10px;border-radius:2px;font-family:var(--pmono);font-size:11px;outline:none;width:180px"
-          oninput="previewGHUrl()">
-      </div>
-      <div style="display:flex;flex-direction:column;gap:3px;margin-top:16px">
-        <button class="btn b-teal" onclick="saveGHConfig()">Save & Run Screen</button>
-      </div>
-      <div style="display:flex;flex-direction:column;gap:3px;margin-top:16px">
-        <button class="btn b-dim" onclick="clearGHConfig()">Clear</button>
-      </div>
-    </div>
-    <div id="gh-preview" style="font-family:var(--pmono);font-size:9px;color:var(--dim);margin-top:8px"></div>
   <!-- Empty state -->
   <div id="empty" style="padding:80px 20px;text-align:center">
     <div style="font-family:var(--pdisplay);font-size:20px;font-style:italic;color:var(--muted);margin-bottom:8px">Screen not yet loaded</div>
@@ -1089,12 +1061,9 @@ async function loadScreen(){
   // ── TIER 1: Your GitHub scraper data — all areas, all drops ──────────────
   // Once the GitHub Actions scraper has run twice, this is the primary source.
   // It reads drops.json directly from your GitHub repo via the raw CDN.
-  // Replace YOUR_GITHUB_USERNAME and YOUR_REPO_NAME with your actual values.
-  // Example: if your repo is github.com/johnsmith/dxb-screen
-  //   → GITHUB_USER = 'johnsmith'
-  //   → GITHUB_REPO = 'dxb-screen'
-  const GITHUB_USER = document.getElementById('gh-user')?.value?.trim() || localStorage.getItem('gh_user') || '';
-  const GITHUB_REPO = document.getElementById('gh-repo')?.value?.trim() || localStorage.getItem('gh_repo') || '';
+  // GitHub scraper — hardcoded, auto-loads on Run Screen
+  const GITHUB_USER = 'dxb-prop-tracker';
+  const GITHUB_REPO = 'dxb-screen';
 
   if (GITHUB_USER && GITHUB_REPO) {
     try {
@@ -1761,58 +1730,6 @@ function updatePortSummary(){
   }).join('');
 }
 
-/* ══════════════════════ GITHUB CONFIG ══════════════════════════════════════ */
-function toggleGHPanel() {
-  const panel = document.getElementById('gh-panel');
-  const isOpen = panel.style.display !== 'none';
-  panel.style.display = isOpen ? 'none' : 'block';
-  if (!isOpen) {
-    // Pre-fill saved values
-    const u = localStorage.getItem('gh_user') || '';
-    const r = localStorage.getItem('gh_repo') || '';
-    document.getElementById('gh-user').value = u;
-    document.getElementById('gh-repo').value = r;
-    previewGHUrl();
-    document.getElementById('gh-user').focus();
-  }
-}
-
-function previewGHUrl() {
-  const u = document.getElementById('gh-user')?.value?.trim();
-  const r = document.getElementById('gh-repo')?.value?.trim();
-  const el = document.getElementById('gh-preview');
-  if (!el) return;
-  if (u && r) {
-    el.innerHTML = `Will fetch: <span style="color:var(--teal2)">https://raw.githubusercontent.com/${u}/${r}/main/data/drops.json</span>`;
-  } else {
-    el.textContent = '';
-  }
-}
-
-function saveGHConfig() {
-  const u = document.getElementById('gh-user')?.value?.trim();
-  const r = document.getElementById('gh-repo')?.value?.trim();
-  if (!u || !r) { alert('Enter both your GitHub username and repository name'); return; }
-  localStorage.setItem('gh_user', u);
-  localStorage.setItem('gh_repo', r);
-  document.getElementById('gh-btn').style.borderColor = 'rgba(0,168,120,.4)';
-  document.getElementById('gh-btn').style.color = 'var(--teal2)';
-  document.getElementById('gh-btn').textContent = '⬡ GitHub ✓';
-  document.getElementById('gh-panel').style.display = 'none';
-  loadScreen();
-}
-
-function clearGHConfig() {
-  localStorage.removeItem('gh_user');
-  localStorage.removeItem('gh_repo');
-  document.getElementById('gh-user').value = '';
-  document.getElementById('gh-repo').value = '';
-  document.getElementById('gh-btn').style.borderColor = '';
-  document.getElementById('gh-btn').style.color = '';
-  document.getElementById('gh-btn').textContent = '⚙ GitHub';
-  document.getElementById('gh-preview').textContent = '';
-}
-
 /* ══════════════════════ MARKET MODE ════════════════════════════════════════ */
 function setMarketMode(mode) {
   CURRENT_MARKET = mode;
@@ -1956,12 +1873,6 @@ document.addEventListener('DOMContentLoaded',()=>{
   document.getElementById('c-dt').textContent=new Date().toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'2-digit'}).toUpperCase();
   if(_key){document.getElementById('key-btn').style.display='none';document.getElementById('key-ok').style.display='flex';}
   document.getElementById('url-input')?.addEventListener?.('keydown',e=>{if(e.key==='Enter')loadScreen();});
-  // Restore GitHub config button state
-  const u=localStorage.getItem('gh_user'), r=localStorage.getItem('gh_repo');
-  if(u&&r){
-    const btn=document.getElementById('gh-btn');
-    if(btn){btn.style.borderColor='rgba(0,168,120,.4)';btn.style.color='var(--teal2)';btn.textContent='⬡ GitHub ✓';}
-  }
 });
 </script>
 </body>
