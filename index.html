@@ -98,15 +98,6 @@ html,body{background:var(--bg);color:var(--cream);font-family:var(--psans);min-h
 .chip-gold{background:rgba(240,165,0,.07);border-color:var(--bd2);color:var(--amber)}
 
 /* Key input */
-.key-wrap{display:flex;gap:5px;align-items:center}
-#key-btn{font-family:var(--pmono);font-size:8.5px;padding:3px 8px;border-radius:2px;border:1px solid var(--bd);color:var(--dim);cursor:pointer;background:transparent;letter-spacing:.07em;transition:all .13s}
-#key-btn:hover{border-color:var(--amber);color:var(--amber)}
-#key-row{display:none;gap:5px;align-items:center}
-#key-in{background:rgba(0,0,0,.5);border:1px solid var(--bd2);color:var(--cream);padding:3px 9px;border-radius:2px;font-family:var(--pmono);font-size:9px;outline:none;width:240px}
-#key-in:focus{border-color:var(--amber)}
-#key-in::placeholder{color:var(--vdim)}
-#key-save{background:var(--amber);color:#030508;border:none;padding:3px 10px;border-radius:2px;font-family:var(--pmono);font-size:8.5px;font-weight:700;cursor:pointer;letter-spacing:.08em}
-#key-ok{display:none;align-items:center;gap:5px}
 .btn{
   font-family:var(--pmono);font-size:9px;font-weight:700;border:none;cursor:pointer;
   padding:6px 13px;border-radius:2px;letter-spacing:.08em;transition:all .13s;
@@ -336,17 +327,6 @@ footer{border-top:1px solid var(--bd);padding:9px 20px;display:flex;justify-cont
       <span class="chip chip-dim" id="c-dt">—</span>
       <span class="chip chip-dim" id="c-ct">—</span>
       <span class="chip chip-gold" id="c-hurdle">HURDLE 7.5%</span>
-      <div class="key-wrap">
-        <button id="key-btn" onclick="toggleKey()">⚿ API Key</button>
-        <div id="key-row">
-          <input id="key-in" type="password" placeholder="sk-ant-api03-…" autocomplete="off">
-          <button id="key-save" onclick="saveKey()">Save</button>
-        </div>
-        <div id="key-ok">
-          <span class="chip chip-live"><span class="dot"></span>AI READY</span>
-          <span style="font-family:var(--pmono);font-size:9px;color:var(--dim);cursor:pointer" onclick="clearKey()">[×]</span>
-        </div>
-      </div>
       <button class="btn b-amber" id="btn-load" onclick="loadScreen()">▶ Run Screen</button>
       <select id="mkt-mode" onchange="setMarketMode(this.value)" style="background:var(--bg2);border:1px solid var(--bd2);color:var(--amber);padding:5px 8px;border-radius:2px;font-family:var(--pmono);font-size:9px;outline:none;cursor:pointer" title="Market assumptions affect vacancy, rent haircut and IRR">
         <option value="normal">Market: Normal</option>
@@ -762,7 +742,7 @@ const SEEDS = [
 /* ══════════════════════ STATE ═══════════════════════════════════════════════ */
 let L        = [];   // enriched listings
 let PORT     = [];   // portfolio (listing ids)
-let _key     = sessionStorage.getItem('gpi_k') || '';
+let _key = '';
 let _openId  = null;
 let _irrId   = null;
 let _sortCol = 'score';
@@ -770,11 +750,7 @@ let _sortDir = -1;
 let _gradeFilter = '';
 
 /* ══════════════════════ KEY ════════════════════════════════════════════════ */
-function toggleKey(){const r=document.getElementById('key-row');r.style.display=r.style.display==='none'?'flex':'none';if(r.style.display==='flex')document.getElementById('key-in').focus();}
-function saveKey(){const v=document.getElementById('key-in').value.trim();if(!v.startsWith('sk-ant-')){alert('Enter a valid Anthropic API key');return;}_key=v;sessionStorage.setItem('gpi_k',v);document.getElementById('key-row').style.display='none';document.getElementById('key-btn').style.display='none';document.getElementById('key-ok').style.display='flex';}
-function clearKey(){_key='';sessionStorage.removeItem('gpi_k');document.getElementById('key-ok').style.display='none';document.getElementById('key-btn').style.display='';}
 function claude(body){return fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'Content-Type':'application/json','x-api-key':_key,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},body:JSON.stringify(body)});}
-if(_key){document.addEventListener('DOMContentLoaded',()=>{document.getElementById('key-btn').style.display='none';document.getElementById('key-ok').style.display='flex';});}
 
 /* ══════════════════════ HELPERS ════════════════════════════════════════════ */
 const f$  = n=>!n?'—':n>=1e6?`AED ${(n/1e6).toFixed(2)}M`:`AED ${Math.round(n/1000)}K`;
@@ -1871,7 +1847,6 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementB
 /* ══════════════════════ INIT ═══════════════════════════════════════════════ */
 document.addEventListener('DOMContentLoaded',()=>{
   document.getElementById('c-dt').textContent=new Date().toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'2-digit'}).toUpperCase();
-  if(_key){document.getElementById('key-btn').style.display='none';document.getElementById('key-ok').style.display='flex';}
   document.getElementById('url-input')?.addEventListener?.('keydown',e=>{if(e.key==='Enter')loadScreen();});
 });
 </script>
