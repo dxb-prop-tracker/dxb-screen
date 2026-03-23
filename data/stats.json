@@ -1,1 +1,11 @@
-{"totalDrops":0,"totalListings":0,"isFirstRun":true,"runAt":null,"biggestDrop":null,"avgDrop":null,"totalSaved":0,"areasWithDrops":0,"areasScraped":0,"message":"Waiting for first scrape run"}
+{
+  "runAt": "2026-03-23T11:17:11.371Z",
+  "isFirstRun": true,
+  "totalListings": 31,
+  "totalDrops": 0,
+  "dropsGte5": 0,
+  "dropsGte10": 0,
+  "biggestDrop": null,
+  "areasWithDrops": 0,
+  "areasScraped": 21
+}
