@@ -516,6 +516,72 @@ footer{border-top:1px solid var(--bd);padding:9px 20px;display:flex;justify-cont
     </div>
     <div class="m-kpis" id="m-kpis"></div>
     <div class="m-scenarios" id="m-scenarios"></div>
+
+    <!-- MORTGAGE CALCULATOR -->
+    <div class="m-ana" id="m-mortgage" style="margin-bottom:10px">
+      <div class="m-ah" style="margin-bottom:10px">
+        <span style="color:var(--amber);font-family:var(--pmono);font-size:8px;letter-spacing:.14em;text-transform:uppercase">⊞ Mortgage Calculator</span>
+        <span style="font-family:var(--pmono);font-size:8px;color:var(--dim)">UAE Central Bank guidelines</span>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:7px;margin-bottom:10px">
+        <div style="background:var(--bg2);border:1px solid var(--bd);border-radius:2px;padding:8px">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:4px">Down Payment %</div>
+          <input id="m-dp" type="number" value="20" min="20" max="80" step="5"
+            style="background:transparent;border:none;border-bottom:1px solid var(--bd2);color:var(--amber);font-family:var(--pmono);font-size:16px;font-weight:700;width:100%;outline:none;padding-bottom:2px"
+            oninput="updateMortgage()">
+        </div>
+        <div style="background:var(--bg2);border:1px solid var(--bd);border-radius:2px;padding:8px">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:4px">Rate % per year</div>
+          <input id="m-rate" type="number" value="4.5" min="1" max="12" step="0.25"
+            style="background:transparent;border:none;border-bottom:1px solid var(--bd2);color:var(--amber);font-family:var(--pmono);font-size:16px;font-weight:700;width:100%;outline:none;padding-bottom:2px"
+            oninput="updateMortgage()">
+        </div>
+        <div style="background:var(--bg2);border:1px solid var(--bd);border-radius:2px;padding:8px">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:4px">Term (years)</div>
+          <input id="m-term" type="number" value="25" min="5" max="25" step="5"
+            style="background:transparent;border:none;border-bottom:1px solid var(--bd2);color:var(--amber);font-family:var(--pmono);font-size:16px;font-weight:700;width:100%;outline:none;padding-bottom:2px"
+            oninput="updateMortgage()">
+        </div>
+        <div style="background:var(--bg2);border:1px solid var(--bd);border-radius:2px;padding:8px">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:4px">Property Value</div>
+          <div id="m-propval" style="font-family:var(--pmono);font-size:13px;font-weight:700;color:var(--cream);padding-bottom:2px;border-bottom:1px solid var(--vdim)">—</div>
+        </div>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:7px;margin-bottom:10px">
+        <div style="background:var(--bg3);border:1px solid var(--bd);border-radius:2px;padding:8px;border-top:2px solid var(--teal2)">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:3px">Monthly Payment</div>
+          <div id="m-monthly" style="font-family:var(--pmono);font-size:18px;font-weight:700;color:var(--teal2)">—</div>
+          <div style="font-family:var(--pmono);font-size:8px;color:var(--dim);margin-top:2px">principal + interest</div>
+        </div>
+        <div style="background:var(--bg3);border:1px solid var(--bd);border-radius:2px;padding:8px;border-top:2px solid var(--blue2)">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:3px">Down Payment</div>
+          <div id="m-downpay" style="font-family:var(--pmono);font-size:18px;font-weight:700;color:var(--blue2)">—</div>
+          <div style="font-family:var(--pmono);font-size:8px;color:var(--dim);margin-top:2px">cash required</div>
+        </div>
+        <div style="background:var(--bg3);border:1px solid var(--bd);border-radius:2px;padding:8px;border-top:2px solid var(--amber)">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:3px">DLD Fee (4%)</div>
+          <div id="m-dldfee" style="font-family:var(--pmono);font-size:18px;font-weight:700;color:var(--amber)">—</div>
+          <div style="font-family:var(--pmono);font-size:8px;color:var(--dim);margin-top:2px">transfer fee</div>
+        </div>
+        <div style="background:var(--bg3);border:1px solid var(--bd);border-radius:2px;padding:8px;border-top:2px solid var(--purple)">
+          <div style="font-family:var(--pmono);font-size:7.5px;color:var(--dim);text-transform:uppercase;letter-spacing:.09em;margin-bottom:3px">Total to Close</div>
+          <div id="m-total" style="font-family:var(--pmono);font-size:18px;font-weight:700;color:var(--purple)">—</div>
+          <div style="font-family:var(--pmono);font-size:8px;color:var(--dim);margin-top:2px">down + DLD + fees</div>
+        </div>
+      </div>
+      <!-- Leveraged IRR row -->
+      <div style="background:var(--bg2);border:1px solid var(--bd2);border-radius:2px;padding:9px;display:flex;gap:20px;flex-wrap:wrap;align-items:center">
+        <span style="font-family:var(--pmono);font-size:8px;color:var(--amber);letter-spacing:.1em;text-transform:uppercase;font-weight:700">Leveraged Returns</span>
+        <span style="font-family:var(--pmono);font-size:8px;color:var(--dim)">Bear: <span id="m-lirr-bear" style="color:var(--red2);font-weight:700">—</span></span>
+        <span style="font-family:var(--pmono);font-size:8px;color:var(--dim)">Base: <span id="m-lirr-base" style="color:var(--blue2);font-weight:700">—</span></span>
+        <span style="font-family:var(--pmono);font-size:8px;color:var(--dim)">Bull: <span id="m-lirr-bull" style="color:var(--teal2);font-weight:700">—</span></span>
+        <span style="font-family:var(--pmono);font-size:8px;color:var(--dim)">Loan-to-Value: <span id="m-ltv" style="color:var(--cream);font-weight:700">—</span></span>
+      </div>
+      <div style="font-family:var(--pmono);font-size:7.5px;color:var(--vdim);margin-top:6px">
+        Min 20% down for expats · Max 25yr term · UAE Central Bank cap 80% LTV · Rates indicative only
+      </div>
+    </div>
+
     <div class="m-ana">
       <div class="m-ah">
         <span id="m-aht">◈ Investment Analysis</span>
@@ -524,7 +590,7 @@ footer{border-top:1px solid var(--bd);padding:9px 20px;display:flex;justify-cont
       <div id="m-out" style="color:var(--dim);font-size:10px;font-family:var(--pmono)">Click "Generate Analysis" for full investment memo — deal thesis, risk factors, IRR narrative and bid recommendation.</div>
     </div>
     <div class="m-acts" id="m-acts"></div>
-    <div class="m-note">DLD reference benchmarks · Hurdle rate 7.5% · Indicative only · Not investment advice</div>
+    <div class="m-note">DLD reference benchmarks · Hurdle rate 7.5% · Indicative only · Not investment advice · Mortgage figures are estimates only</div>
   </div>
 </div>
 
@@ -1778,6 +1844,9 @@ function openModal(id){
   document.getElementById('m-show').style.display='';
 
   document.getElementById('ov').classList.add('open');
+
+  // Initialise mortgage calculator for this listing
+  setTimeout(() => calcMortgage(l.ask, l), 50);
 }
 
 function showAnalysis(){
@@ -1842,6 +1911,62 @@ Breakeven yield on all-in cost: ${(l.noi/l.ask*100/1.06).toFixed(1)}%.`;
 }
 
 function closeMd(e){if(!e||e.target===document.getElementById('ov'))document.getElementById('ov').classList.remove('open');}
+function updateMortgage() {
+  const l = L.find(x => x._id === _openId);
+  if (!l) return;
+  calcMortgage(l.ask, l);
+}
+
+function calcMortgage(price, l) {
+  const dpPct  = parseFloat(document.getElementById('m-dp')?.value   || 20)  / 100;
+  const rate   = parseFloat(document.getElementById('m-rate')?.value  || 4.5) / 100;
+  const termYr = parseFloat(document.getElementById('m-term')?.value  || 25);
+
+  const downPay  = price * dpPct;
+  const loanAmt  = price * (1 - dpPct);
+  const dldFee   = price * 0.04;
+  const agentFee = price * 0.02;
+  const total    = downPay + dldFee + agentFee + 3000; // admin
+
+  // Monthly payment — standard annuity formula
+  const r = rate / 12;
+  const n = termYr * 12;
+  const monthly = r === 0 ? loanAmt/n : loanAmt * (r * Math.pow(1+r,n)) / (Math.pow(1+r,n)-1);
+
+  // Leveraged IRR — equity = downPay + DLD fee; cash flows = NOI - interest; exit = exitVal - loanBalance
+  function levIRR(capApp) {
+    const equity   = downPay + dldFee + agentFee;
+    const annNOI   = price * l.yield_ * (1-(MARKET_PARAMS[CURRENT_MARKET]?.vacancy||.08)) * (1-OPEX);
+    const annInt   = loanAmt * rate;  // approximate annual interest (year 1)
+    const annCF    = annNOI - monthly*12;
+    const exitVal  = price * (1+capApp);
+    const loanBal  = loanAmt; // simplified — outstanding principal after 3yr (minimal paydown)
+    const exitEq   = exitVal - loanBal;
+    const cfs      = [-equity, annCF, annCF, annCF + exitEq];
+    return calcIRR(cfs) * 100;
+  }
+
+  const lirrBear = levIRR(-0.05);
+  const lirrBase = levIRR(0.05);
+  const lirrBull = levIRR(0.20);
+  const ltv      = ((1-dpPct)*100).toFixed(0);
+
+  // Update UI
+  document.getElementById('m-propval').textContent  = f$(price);
+  document.getElementById('m-monthly').textContent  = 'AED ' + Math.round(monthly).toLocaleString();
+  document.getElementById('m-downpay').textContent  = f$(Math.round(downPay));
+  document.getElementById('m-dldfee').textContent   = f$(Math.round(dldFee));
+  document.getElementById('m-total').textContent    = f$(Math.round(total));
+  document.getElementById('m-ltv').textContent      = ltv + '%';
+  document.getElementById('m-lirr-bear').textContent = pc(lirrBear);
+  document.getElementById('m-lirr-base').textContent = pc(lirrBase);
+  document.getElementById('m-lirr-bull').textContent = pc(lirrBull);
+
+  // Colour leveraged IRRs
+  document.getElementById('m-lirr-base').style.color = lirrBase >= HURDLE ? 'var(--teal2)' : lirrBase >= 5 ? 'var(--blue2)' : 'var(--red2)';
+}
+
+
 document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('ov').classList.remove('open');});
 
 /* ══════════════════════ INIT ═══════════════════════════════════════════════ */
