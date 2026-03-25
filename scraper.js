@@ -186,7 +186,7 @@ async function main() {
       l.saved_aed       = 0;
     }
     snapshot.push(l);
-    if (l.drop_from_first < 0) drops.push(l);
+    if (l.drop_from_first < 0 || l.drop_from_prev < 0) drops.push(l);
   }
 
   drops.sort((a, b) => a.drop_from_first - b.drop_from_first);
