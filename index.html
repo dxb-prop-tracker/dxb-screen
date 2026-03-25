@@ -1012,15 +1012,15 @@ function enrich(s) {
 
 /* ══ LIVE DATA FETCH ═══════════════════════════════════════════════════════ */
 async function fetchGitHub() {
-  const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/drops.json?t=${Date.now()}`;
+  const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/listings.json?t=${Date.now()}`;
   const resp = await fetch(url, { signal: AbortSignal.timeout(12000) });
   if (!resp.ok) throw new Error(`GitHub ${resp.status}`);
   const drops = await resp.json();
-  if (!Array.isArray(drops) || !drops.length) throw new Error('Empty drops.json — scraper needs 2 runs');
+  if (!Array.isArray(drops) || !drops.length) throw new Error('Empty listings.json');
   return drops.map(d => enrich({
     id: d.listing_id, area: d.area, type: d.type||'Apartment',
     beds: d.beds??0, ask: d.current_price, was: d.first_price||d.previous_price||d.current_price,
-    drop: d.drop_from_first||d.drop_from_prev||0, sqft: d.sqft||null,
+    drop: d.drop_from_prev||d.drop_from_first||0, sqft: d.sqft||null,
     title: d.title||'', agency: d.agency||'',
     purpose: d.purpose||'sale',
     days_on_market: d.days_on_market||null,
