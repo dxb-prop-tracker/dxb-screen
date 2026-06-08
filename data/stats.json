@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-06-08T14:03:43.163Z",
+  "runAt": "2026-06-08T18:29:59.917Z",
   "isFirstRun": false,
   "totalListings": 81,
   "totalDrops": 81,
@@ -9,7 +9,7 @@
   "biggestDrop": 0,
   "avgDrop": 0,
   "totalSaved": 0,
-  "areasWithDrops": 5,
+  "areasWithDrops": 3,
   "saleDrops": 60,
   "rentDrops": 21,
   "areasScraped": 74
