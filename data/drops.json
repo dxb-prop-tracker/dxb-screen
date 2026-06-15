@@ -1,5 +1,33 @@
 [
   {
+    "listing_id": "14624885",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 3150000,
+    "previous_price": 4600000,
+    "first_price": 3150000,
+    "drop_from_prev": -31.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1610,
+    "psf": 1957,
+    "title": "Exclusive | Iconic Skyline Views | Designer Home",
+    "agency": "Huspy Dubai",
+    "portal_url": "https://www.bayut.com/property/details-14624885.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 3150000,
+        "date": "2026-06-15T23:46:02.178Z"
+      }
+    ]
+  },
+  {
     "listing_id": "14328167",
     "area": "Downtown Dubai",
     "type": "Apartment",
@@ -16,7 +44,7 @@
     "title": "Amazing 2 Beds In Downtown 1 Min From Burj Khalifa",
     "agency": "fäm Properties - B",
     "portal_url": "https://www.bayut.com/property/details-14328167.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -44,7 +72,7 @@
     "title": "Fully Upgraded | Full Burj View | Unique Layout",
     "agency": "Hamptons Internati",
     "portal_url": "https://www.bayut.com/property/details-14568277.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -52,6 +80,34 @@
       {
         "price": 7500000,
         "date": "2026-06-15T19:54:12.260Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14437325",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1300000,
+    "previous_price": 1600000,
+    "first_price": 1300000,
+    "drop_from_prev": -18.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1355,
+    "psf": 959,
+    "title": "Rare | Private Garden Terrace | Open Plan",
+    "agency": "Exclusive Links Re",
+    "portal_url": "https://www.bayut.com/property/details-14437325.html",
+    "detected_at": "2026-06-15T23:46:13.007Z",
+    "first_seen": "2026-06-15T23:46:13.007Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1300000,
+        "date": "2026-06-15T23:46:13.007Z"
       }
     ]
   },
@@ -72,7 +128,7 @@
     "title": "Burj View | Luxury Living | Hotel Apartment",
     "agency": "White & Co",
     "portal_url": "https://www.bayut.com/property/details-14259970.html",
-    "detected_at": "2026-06-15T19:53:41.821Z",
+    "detected_at": "2026-06-15T23:45:49.038Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -80,6 +136,90 @@
       {
         "price": 250000,
         "date": "2026-06-14T12:03:52.455Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14585344",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 9250000,
+    "previous_price": 11000000,
+    "first_price": 9250000,
+    "drop_from_prev": -15.9,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4390,
+    "psf": 2107,
+    "title": "High-End Turnkey | Extended | Vacant",
+    "agency": "Provident Real Est",
+    "portal_url": "https://www.bayut.com/property/details-14585344.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 9250000,
+        "date": "2026-06-15T23:46:02.178Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14642985",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2400000,
+    "previous_price": 2850000,
+    "first_price": 2400000,
+    "drop_from_prev": -15.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1606,
+    "psf": 1494,
+    "title": "Marina View | Converted | Vacant",
+    "agency": "Dacha Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14642985.html",
+    "detected_at": "2026-06-15T23:46:13.007Z",
+    "first_seen": "2026-06-15T23:46:13.007Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2400000,
+        "date": "2026-06-15T23:46:13.007Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14018747",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1400000,
+    "previous_price": 1650000,
+    "first_price": 1400000,
+    "drop_from_prev": -15.2,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 960,
+    "psf": 1458,
+    "title": "Sea Views High Floor | Large Layout | VOT",
+    "agency": "White & Co",
+    "portal_url": "https://www.bayut.com/property/details-14018747.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1400000,
+        "date": "2026-06-15T23:46:13.008Z"
       }
     ]
   },
@@ -100,7 +240,7 @@
     "title": "Fully Furnished | Bills Included | Burj View",
     "agency": "Tyron Ash Internat",
     "portal_url": "https://www.bayut.com/property/details-14475864.html",
-    "detected_at": "2026-06-15T19:53:41.822Z",
+    "detected_at": "2026-06-15T23:45:49.038Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -108,6 +248,62 @@
       {
         "price": 137000,
         "date": "2026-06-14T12:03:52.455Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14444826",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 995000,
+    "previous_price": 1150000,
+    "first_price": 995000,
+    "drop_from_prev": -13.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 674,
+    "psf": 1476,
+    "title": "Modern 1BR Gem | Marina Living | Great Location",
+    "agency": "Two Continents Rea",
+    "portal_url": "https://www.bayut.com/property/details-14444826.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 995000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13983957",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 10500000,
+    "previous_price": 12000000,
+    "first_price": 10500000,
+    "drop_from_prev": -12.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 3627,
+    "psf": 2895,
+    "title": "Fully Upgraded | Vacant on Transfer | Park View",
+    "agency": "Savills Dubai",
+    "portal_url": "https://www.bayut.com/property/details-13983957.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 10500000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -128,7 +324,7 @@
     "title": "Luxury 2BR Fully Furnished | High Demand Location |",
     "agency": "Next Level Real Es",
     "portal_url": "https://www.bayut.com/property/details-13746756.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -136,6 +332,62 @@
       {
         "price": 2530000,
         "date": "2026-06-15T19:54:12.260Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14472116",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 8680000,
+    "previous_price": 9800000,
+    "first_price": 8680000,
+    "drop_from_prev": -11.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4786,
+    "psf": 1814,
+    "title": "Upgraded | Extended | Private Pool",
+    "agency": "fäm Properties - B",
+    "portal_url": "https://www.bayut.com/property/details-14472116.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 8680000,
+        "date": "2026-06-15T23:46:02.178Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14490343",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 8680000,
+    "previous_price": 9800000,
+    "first_price": 8680000,
+    "drop_from_prev": -11.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4786,
+    "psf": 1814,
+    "title": "Extended | Private Pool | Close to Park",
+    "agency": "LuxuryX Agents",
+    "portal_url": "https://www.bayut.com/property/details-14490343.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 8680000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -156,7 +408,7 @@
     "title": "Bright 1BR | Fully Furnished | Vacant",
     "agency": "Betterhomes - Busi",
     "portal_url": "https://www.bayut.com/property/details-15003426.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -164,6 +416,34 @@
       {
         "price": 1950000,
         "date": "2026-06-15T19:54:12.260Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14570944",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5500000,
+    "previous_price": 6200000,
+    "first_price": 5500000,
+    "drop_from_prev": -11.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2880,
+    "psf": 1910,
+    "title": "4 Bedroom Villa | Maple 2 | Single Row",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14570944.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5500000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -184,7 +464,7 @@
     "title": "Fully Furnished / High Floor / Vacant",
     "agency": "Mab Develop Projec",
     "portal_url": "https://www.bayut.com/property/details-14464970.html",
-    "detected_at": "2026-06-15T19:53:41.822Z",
+    "detected_at": "2026-06-15T23:45:49.038Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -212,7 +492,7 @@
     "title": "Daniels Fully Renovated 3BR + 1 Maids Room | Princes",
     "agency": "Daniels Luxury Hol",
     "portal_url": "https://www.bayut.com/property/details-11301652.html",
-    "detected_at": "2026-06-15T19:53:41.822Z",
+    "detected_at": "2026-06-15T23:45:49.039Z",
     "first_seen": "2026-06-14T23:21:37.138Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -240,7 +520,7 @@
     "title": "Corner Villa | Large Plot | Greenbelt Backing",
     "agency": "Huspy Dubai",
     "portal_url": "https://www.bayut.com/property/details-14442632.html",
-    "detected_at": "2026-06-15T19:53:41.823Z",
+    "detected_at": "2026-06-15T23:45:49.039Z",
     "first_seen": "2026-06-14T23:22:00.694Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -248,6 +528,62 @@
       {
         "price": 400000,
         "date": "2026-06-14T23:22:00.694Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14445962",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 0,
+    "purpose": "sale",
+    "current_price": 1250000,
+    "previous_price": 1400000,
+    "first_price": 1250000,
+    "drop_from_prev": -10.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 413,
+    "psf": 3027,
+    "title": "FULL MARINA VIEW | VACANT ON TRANSFER | HIGH ROI",
+    "agency": "Banke Internationa",
+    "portal_url": "https://www.bayut.com/property/details-14445962.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1250000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14756968",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 8500000,
+    "previous_price": 9500000,
+    "first_price": 8500000,
+    "drop_from_prev": -10.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4359,
+    "psf": 1950,
+    "title": "Upgraded | Extended | Vastu Compliant",
+    "agency": "Allsopp & Allsopp",
+    "portal_url": "https://www.bayut.com/property/details-14756968.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 8500000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -268,7 +604,7 @@
     "title": "Best Price Burj View | Brand New | Vacant",
     "agency": "White & Co",
     "portal_url": "https://www.bayut.com/property/details-13670943.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -296,7 +632,7 @@
     "title": "Community View | Fully Furnished | Chiller Free",
     "agency": "Dacha Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14342924.html",
-    "detected_at": "2026-06-15T19:53:41.823Z",
+    "detected_at": "2026-06-15T23:45:49.039Z",
     "first_seen": "2026-06-14T23:21:37.138Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -324,7 +660,7 @@
     "title": "Boulevard Views | Upgraded 2BR | Great Investment",
     "agency": "Houzon Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14759945.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -332,6 +668,174 @@
       {
         "price": 2800000,
         "date": "2026-06-15T19:54:12.260Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14451664",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 14900000,
+    "previous_price": 16500000,
+    "first_price": 14900000,
+    "drop_from_prev": -9.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 3789,
+    "psf": 3932,
+    "title": "Premium High Floor | Sea View | Vacant",
+    "agency": "Idigov Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14451664.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 14900000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14906761",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 2800000,
+    "previous_price": 3100000,
+    "first_price": 2800000,
+    "drop_from_prev": -9.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1584,
+    "psf": 1768,
+    "title": "Elite Unit | Prestigious Location | Spacious",
+    "agency": "Driven Properties",
+    "portal_url": "https://www.bayut.com/property/details-14906761.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2800000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14503346",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 3300000,
+    "previous_price": 3650000,
+    "first_price": 3300000,
+    "drop_from_prev": -9.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1610,
+    "psf": 2050,
+    "title": "Pool View | Upgraded | Vacant on Transfer",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14503346.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 3300000,
+        "date": "2026-06-15T23:46:02.178Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "11844581",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2600000,
+    "previous_price": 2880000,
+    "first_price": 2600000,
+    "drop_from_prev": -9.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1318,
+    "psf": 1973,
+    "title": "Prime Location | Marina View | Vacant Now",
+    "agency": "White & Co",
+    "portal_url": "https://www.bayut.com/property/details-11844581.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2600000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "7998061",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 2850000,
+    "previous_price": 3150000,
+    "first_price": 2850000,
+    "drop_from_prev": -9.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2409,
+    "psf": 1183,
+    "title": "SKYLINE VIEW | HIGHER FLOOR | VACANT",
+    "agency": "Vhomes Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-7998061.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2850000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "12947968",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2400000,
+    "previous_price": 2650000,
+    "first_price": 2400000,
+    "drop_from_prev": -9.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1021,
+    "psf": 2351,
+    "title": "Brand New and Fully Upgraded Kitchen | Furnished",
+    "agency": "Driven Properties",
+    "portal_url": "https://www.bayut.com/property/details-12947968.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2400000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -352,7 +856,7 @@
     "title": "Full Burj Khalifa View | Vacant on Transfer",
     "agency": "Allsopp & Allsopp",
     "portal_url": "https://www.bayut.com/property/details-14382653.html",
-    "detected_at": "2026-06-15T19:54:12.260Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.260Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -360,6 +864,62 @@
       {
         "price": 5300000,
         "date": "2026-06-15T19:54:12.260Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14619044",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2900000,
+    "previous_price": 3200000,
+    "first_price": 2900000,
+    "drop_from_prev": -9.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1500,
+    "psf": 1933,
+    "title": "Marina Views | Prime Location | Negotiable",
+    "agency": "Exclusive Links Re",
+    "portal_url": "https://www.bayut.com/property/details-14619044.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2900000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14497874",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1950000,
+    "previous_price": 2150000,
+    "first_price": 1950000,
+    "drop_from_prev": -9.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 958,
+    "psf": 2035,
+    "title": "Vacant Now | Best Price | Great Investment",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14497874.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1950000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -380,7 +940,7 @@
     "title": "Boulevard View | 2BR Apartment | Forte 1 Downtown",
     "agency": "H & S Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14471408.html",
-    "detected_at": "2026-06-15T19:53:41.823Z",
+    "detected_at": "2026-06-15T23:45:49.039Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -408,7 +968,7 @@
     "title": "Largest Layout | Prime Location | Fully Furnished",
     "agency": "haus & haus Real E",
     "portal_url": "https://www.bayut.com/property/details-14418555.html",
-    "detected_at": "2026-06-15T19:53:41.823Z",
+    "detected_at": "2026-06-15T23:45:49.039Z",
     "first_seen": "2026-06-14T23:21:37.138Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -416,6 +976,62 @@
       {
         "price": 105000,
         "date": "2026-06-14T23:21:37.138Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14382700",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2200000,
+    "previous_price": 2410000,
+    "first_price": 2200000,
+    "drop_from_prev": -8.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1370,
+    "psf": 1606,
+    "title": "Rare | VOT | Marina View | 2-Bedroom",
+    "agency": "Betterhomes - Duba",
+    "portal_url": "https://www.bayut.com/property/details-14382700.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2200000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14612192",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1790000,
+    "previous_price": 1950000,
+    "first_price": 1790000,
+    "drop_from_prev": -8.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 940,
+    "psf": 1904,
+    "title": "High Quality | Large Size | Enquire Today",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14612192.html",
+    "detected_at": "2026-06-15T23:46:02.178Z",
+    "first_seen": "2026-06-15T23:46:02.178Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1790000,
+        "date": "2026-06-15T23:46:02.178Z"
       }
     ]
   },
@@ -436,7 +1052,7 @@
     "title": "Unfurnished | Chiller Free | Sea View",
     "agency": "Betterhomes - Duba",
     "portal_url": "https://www.bayut.com/property/details-14343133.html",
-    "detected_at": "2026-06-15T19:53:41.823Z",
+    "detected_at": "2026-06-15T23:45:49.040Z",
     "first_seen": "2026-06-14T23:21:37.138Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -444,6 +1060,34 @@
       {
         "price": 165000,
         "date": "2026-06-14T23:21:37.138Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14585101",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 7700000,
+    "previous_price": 8400000,
+    "first_price": 7700000,
+    "drop_from_prev": -8.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 3123,
+    "psf": 2466,
+    "title": "Great Location | Vacant On Transfer | Viewable",
+    "agency": "haus & haus Real E",
+    "portal_url": "https://www.bayut.com/property/details-14585101.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 7700000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -464,7 +1108,7 @@
     "title": "2BR+M | Type K | Vacant | Fountain View",
     "agency": "fäm Properties - B",
     "portal_url": "https://www.bayut.com/property/details-14505846.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -492,7 +1136,7 @@
     "title": "Partial Downtown View I Fully Furnished",
     "agency": "Alhad Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14072787.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -520,7 +1164,7 @@
     "title": "Vacant | High Floor | Opera and Fountain View",
     "agency": "Driven Properties",
     "portal_url": "https://www.bayut.com/property/details-14655608.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -548,7 +1192,7 @@
     "title": "Exclusive|Largest Layout|Fully Furnished",
     "agency": "Golden Wave Proper",
     "portal_url": "https://www.bayut.com/property/details-14684440.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -576,7 +1220,7 @@
     "title": "Multiple Cheques | Boulevard View | Chiller Free",
     "agency": "fäm Properties - B",
     "portal_url": "https://www.bayut.com/property/details-14464250.html",
-    "detected_at": "2026-06-15T19:53:41.823Z",
+    "detected_at": "2026-06-15T23:45:49.040Z",
     "first_seen": "2026-06-14T23:22:00.694Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -584,6 +1228,90 @@
       {
         "price": 162000,
         "date": "2026-06-14T23:22:00.694Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14406144",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 5,
+    "purpose": "sale",
+    "current_price": 28500000,
+    "previous_price": 30750000,
+    "first_price": 28500000,
+    "drop_from_prev": -7.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 10371,
+    "psf": 2748,
+    "title": "LARGE CORNER PLOT | AREA SPECIALIST | VIEWABLE",
+    "agency": "Houstetic Properti",
+    "portal_url": "https://www.bayut.com/property/details-14406144.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 28500000,
+        "date": "2026-06-15T23:46:02.179Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14493430",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5750000,
+    "previous_price": 6200000,
+    "first_price": 5750000,
+    "drop_from_prev": -7.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2462,
+    "psf": 2335,
+    "title": "Park Backing | Vacant June | Large Plot",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14493430.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5750000,
+        "date": "2026-06-15T23:46:02.179Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13508892",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 5,
+    "purpose": "sale",
+    "current_price": 16000000,
+    "previous_price": 17250000,
+    "first_price": 16000000,
+    "drop_from_prev": -7.2,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4283,
+    "psf": 3736,
+    "title": "Best location | Large 5 Bedroom Villa | Upgraded",
+    "agency": "AEON & Trisl Real",
+    "portal_url": "https://www.bayut.com/property/details-13508892.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 16000000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -604,7 +1332,7 @@
     "title": "Luxury High - Floor 2BR l Fully Furnished l Ready",
     "agency": "Hamptons Internati",
     "portal_url": "https://www.bayut.com/property/details-14051117.html",
-    "detected_at": "2026-06-15T19:53:41.824Z",
+    "detected_at": "2026-06-15T23:45:49.040Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -632,7 +1360,7 @@
     "title": "Unfurnished | High Floor Unit | Prime Location",
     "agency": "Expert Homes Real",
     "portal_url": "https://www.bayut.com/property/details-14224350.html",
-    "detected_at": "2026-06-15T19:53:41.824Z",
+    "detected_at": "2026-06-15T23:45:49.040Z",
     "first_seen": "2026-06-14T23:21:37.138Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -640,6 +1368,34 @@
       {
         "price": 130000,
         "date": "2026-06-14T23:21:37.138Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13027149",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2600000,
+    "previous_price": 2800000,
+    "first_price": 2600000,
+    "drop_from_prev": -7.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1780,
+    "psf": 1461,
+    "title": "Upgraded I Furnished I High Floor I High ROI",
+    "agency": "Prima Casa Real Es",
+    "portal_url": "https://www.bayut.com/property/details-13027149.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2600000,
+        "date": "2026-06-15T23:46:13.008Z"
       }
     ]
   },
@@ -660,7 +1416,7 @@
     "title": "Spacious 2BR+Study | High Floor | Burj View",
     "agency": "Betterhomes - Busi",
     "portal_url": "https://www.bayut.com/property/details-14590647.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -668,6 +1424,90 @@
       {
         "price": 3300000,
         "date": "2026-06-15T19:54:12.261Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14152796",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2700000,
+    "previous_price": 2900000,
+    "first_price": 2700000,
+    "drop_from_prev": -6.9,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 962,
+    "psf": 2807,
+    "title": "Premium Renovation | Vacant | Marina View",
+    "agency": "AQUA Properties",
+    "portal_url": "https://www.bayut.com/property/details-14152796.html",
+    "detected_at": "2026-06-15T23:46:13.008Z",
+    "first_seen": "2026-06-15T23:46:13.008Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2700000,
+        "date": "2026-06-15T23:46:13.008Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14084231",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5500000,
+    "previous_price": 5900000,
+    "first_price": 5500000,
+    "drop_from_prev": -6.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2462,
+    "psf": 2234,
+    "title": "Greenbelt | Vacant on Transfer | 4 Bed",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14084231.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5500000,
+        "date": "2026-06-15T23:46:02.179Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14610507",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 5,
+    "purpose": "sale",
+    "current_price": 27500000,
+    "previous_price": 29500000,
+    "first_price": 27500000,
+    "drop_from_prev": -6.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 7486,
+    "psf": 3674,
+    "title": "Prime Location | Lagoon Backing | Community Expert",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14610507.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 27500000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -688,7 +1528,7 @@
     "title": "BURJ KHALIFA AND CANAL VIEW | FULLY FURNISHED",
     "agency": "EVA Real Estate -",
     "portal_url": "https://www.bayut.com/property/details-14635508.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.642Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -696,6 +1536,34 @@
       {
         "price": 3400000,
         "date": "2026-06-15T19:54:12.261Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "12968221",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 2050000,
+    "previous_price": 2200000,
+    "first_price": 2050000,
+    "drop_from_prev": -6.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 955,
+    "psf": 2147,
+    "title": "Spacious 1BR | Unfurnished | Attessa Dubai Marina",
+    "agency": "Eivan Properties",
+    "portal_url": "https://www.bayut.com/property/details-12968221.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2050000,
+        "date": "2026-06-15T23:46:13.009Z"
       }
     ]
   },
@@ -716,7 +1584,7 @@
     "title": "Marina View| Next To Metro| Brand New Building",
     "agency": "M T S Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14406169.html",
-    "detected_at": "2026-06-15T19:53:41.824Z",
+    "detected_at": "2026-06-15T23:45:49.040Z",
     "first_seen": "2026-06-14T23:21:37.139Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -744,7 +1612,7 @@
     "title": "Prime Location / High Floor / Genuine Resale",
     "agency": "fäm Properties - B",
     "portal_url": "https://www.bayut.com/property/details-14434890.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -772,7 +1640,7 @@
     "title": "Fully Upgraded | Fully Furnished | High ROI",
     "agency": "Equity Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14761128.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -780,6 +1648,90 @@
       {
         "price": 2150000,
         "date": "2026-06-15T19:54:12.261Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14564355",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1450000,
+    "previous_price": 1550000,
+    "first_price": 1450000,
+    "drop_from_prev": -6.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 917,
+    "psf": 1581,
+    "title": "Upgraded | Vacant | Turnkey Unit | Best Layout",
+    "agency": "Equity Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14564355.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1450000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14774122",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2150000,
+    "previous_price": 2300000,
+    "first_price": 2150000,
+    "drop_from_prev": -6.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1857,
+    "psf": 1158,
+    "title": "Exclusive | Large 2 Bed | Low Floor | Rented",
+    "agency": "Prestige Luxury Re",
+    "portal_url": "https://www.bayut.com/property/details-14774122.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2150000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14771694",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1650000,
+    "previous_price": 1770000,
+    "first_price": 1650000,
+    "drop_from_prev": -6.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1188,
+    "psf": 1389,
+    "title": "Marina And Sea View | Fully Furnished | Vacant",
+    "agency": "Alhad Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14771694.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1650000,
+        "date": "2026-06-15T23:46:13.009Z"
       }
     ]
   },
@@ -800,7 +1752,7 @@
     "title": "High Floor Unit with Burj Khalifa View | 02 Series",
     "agency": "Driven Properties",
     "portal_url": "https://www.bayut.com/property/details-11937563.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -828,7 +1780,7 @@
     "title": "Vacant now I Balcony I Motivated seller",
     "agency": "Allsopp & Allsopp",
     "portal_url": "https://www.bayut.com/property/details-14575100.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -836,6 +1788,34 @@
       {
         "price": 1450000,
         "date": "2026-06-15T19:54:12.261Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14515882",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1630000,
+    "previous_price": 1740000,
+    "first_price": 1630000,
+    "drop_from_prev": -6.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 723,
+    "psf": 2254,
+    "title": "Vacant I Community View I Prime Location",
+    "agency": "haus & haus Real E",
+    "portal_url": "https://www.bayut.com/property/details-14515882.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1630000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -856,7 +1836,7 @@
     "title": "Private Garden Corner | Fully Upgraded | Vacant",
     "agency": "Metropolitan Premi",
     "portal_url": "https://www.bayut.com/property/details-14228387.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -864,6 +1844,34 @@
       {
         "price": 7500000,
         "date": "2026-06-15T19:54:12.261Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14794025",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5900000,
+    "previous_price": 6300000,
+    "first_price": 5900000,
+    "drop_from_prev": -6.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2610,
+    "psf": 2261,
+    "title": "Upgraded | Vacant | High Floor",
+    "agency": "Huspy Dubai",
+    "portal_url": "https://www.bayut.com/property/details-14794025.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5900000,
+        "date": "2026-06-15T23:46:13.009Z"
       }
     ]
   },
@@ -884,7 +1892,7 @@
     "title": "Burj Khalifa View | Low Floor | Vacant End of Feb",
     "agency": "Mon Maison Interna",
     "portal_url": "https://www.bayut.com/property/details-14267141.html",
-    "detected_at": "2026-06-15T19:53:41.824Z",
+    "detected_at": "2026-06-15T23:45:49.040Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -912,7 +1920,7 @@
     "title": "EXCLUSIVE | Fully Furnished | Ready To Move in",
     "agency": "Engel & Voelkers D",
     "portal_url": "https://www.bayut.com/property/details-14180777.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T23:22:00.695Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -940,7 +1948,7 @@
     "title": "Vacant | Exclusive | Burj Khalifa View",
     "agency": "Houstetic Properti",
     "portal_url": "https://www.bayut.com/property/details-14415109.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -968,7 +1976,7 @@
     "title": "Burj Khalifa and Swimming Pool View | With Study",
     "agency": "D AND B Properties",
     "portal_url": "https://www.bayut.com/property/details-14728216.html",
-    "detected_at": "2026-06-15T19:54:12.261Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.261Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -976,6 +1984,118 @@
       {
         "price": 4600000,
         "date": "2026-06-15T19:54:12.261Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14327440",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2300000,
+    "previous_price": 2450000,
+    "first_price": 2300000,
+    "drop_from_prev": -6.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1494,
+    "psf": 1539,
+    "title": "Investor’s Deal | Largest Layout | Vacant | Marina",
+    "agency": "Betterhomes - Duba",
+    "portal_url": "https://www.bayut.com/property/details-14327440.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2300000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "12575288",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2350000,
+    "previous_price": 2500000,
+    "first_price": 2350000,
+    "drop_from_prev": -6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1677,
+    "psf": 1401,
+    "title": "Spacious 1,677 Sq. Ft | Partial Marina View | Vacant",
+    "agency": "Betterhomes - Duba",
+    "portal_url": "https://www.bayut.com/property/details-12575288.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2350000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14219046",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 4700000,
+    "previous_price": 5000000,
+    "first_price": 4700000,
+    "drop_from_prev": -6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2980,
+    "psf": 1577,
+    "title": "Vacant July|Sweeping 3k sqft layout with sea view",
+    "agency": "Edwards and Towers",
+    "portal_url": "https://www.bayut.com/property/details-14219046.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 4700000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14532285",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1980000,
+    "previous_price": 2100000,
+    "first_price": 1980000,
+    "drop_from_prev": -6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1305,
+    "psf": 1517,
+    "title": "High Floor | Well-Maintained 2 BEDROOM | High ROI",
+    "agency": "La Capitale Real E",
+    "portal_url": "https://www.bayut.com/property/details-14532285.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1980000,
+        "date": "2026-06-15T23:46:13.009Z"
       }
     ]
   },
@@ -996,7 +2116,7 @@
     "title": "Large 2BR| Prime Downtown Location | Stunning Amenit",
     "agency": "Tuanam Real Estate",
     "portal_url": "https://www.bayut.com/property/details-14491750.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T12:03:52.455Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -1004,6 +2124,34 @@
       {
         "price": 160000,
         "date": "2026-06-14T12:03:52.455Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14347178",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1600000,
+    "previous_price": 1700000,
+    "first_price": 1600000,
+    "drop_from_prev": -5.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 724,
+    "psf": 2210,
+    "title": "Spacious | Mall View | Prime Location | High ROI",
+    "agency": "Knightsbridge Prop",
+    "portal_url": "https://www.bayut.com/property/details-14347178.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1600000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -1024,7 +2172,7 @@
     "title": "One Bedroom | Vacant | Luxury Jumeirah Living",
     "agency": "Allsopp & Allsopp",
     "portal_url": "https://www.bayut.com/property/details-14418683.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T23:21:37.140Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -1052,7 +2200,7 @@
     "title": "First Week March I Partial Sea View I Spacious",
     "agency": "Propfolio Real Est",
     "portal_url": "https://www.bayut.com/property/details-13933206.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T23:21:37.140Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -1080,7 +2228,7 @@
     "title": "Fully Upgraded Studio | Furnished | Marina View",
     "agency": "Square Assets Real",
     "portal_url": "https://www.bayut.com/property/details-14436950.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T23:21:37.140Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -1108,7 +2256,7 @@
     "title": "Armani Residence | Furnished | Serviced | Branded",
     "agency": "fäm Properties - B",
     "portal_url": "https://www.bayut.com/property/details-14378197.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1136,7 +2284,7 @@
     "title": "Premium 3 BR Layout | Amazing Burj Views",
     "agency": "AQUA Properties",
     "portal_url": "https://www.bayut.com/property/details-14624062.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1144,6 +2292,118 @@
       {
         "price": 8500000,
         "date": "2026-06-15T19:54:12.262Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13495474",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1700000,
+    "previous_price": 1800000,
+    "first_price": 1700000,
+    "drop_from_prev": -5.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 759,
+    "psf": 2240,
+    "title": "Rare Layout | Full Marina Views | VOT",
+    "agency": "White & Co",
+    "portal_url": "https://www.bayut.com/property/details-13495474.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1700000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14679928",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1280000,
+    "previous_price": 1350000,
+    "first_price": 1280000,
+    "drop_from_prev": -5.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 768,
+    "psf": 1667,
+    "title": "Full Upgrades | Marina Views | VOT",
+    "agency": "Cresco Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14679928.html",
+    "detected_at": "2026-06-15T23:46:13.009Z",
+    "first_seen": "2026-06-15T23:46:13.009Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1280000,
+        "date": "2026-06-15T23:46:13.009Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14679180",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 850000,
+    "previous_price": 900000,
+    "first_price": 850000,
+    "drop_from_prev": -5.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 765,
+    "psf": 1111,
+    "title": "Furnished | Prime Location | Close to Metro",
+    "agency": "Range Internationa",
+    "portal_url": "https://www.bayut.com/property/details-14679180.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 850000,
+        "date": "2026-06-15T23:46:13.010Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14246550",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2200000,
+    "previous_price": 2330000,
+    "first_price": 2200000,
+    "drop_from_prev": -5.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1158,
+    "psf": 1900,
+    "title": "Distress Deal EMAAR | Motivated Seller | Off-Plan 2B",
+    "agency": "Rawlins Properties",
+    "portal_url": "https://www.bayut.com/property/details-14246550.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2200000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -1164,7 +2424,7 @@
     "title": "Burj View | Dubai Mall Access | Motivated Seller",
     "agency": "White & Co",
     "portal_url": "https://www.bayut.com/property/details-14365967.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1172,6 +2432,34 @@
       {
         "price": 5150000,
         "date": "2026-06-15T19:54:12.262Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14432597",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1750000,
+    "previous_price": 1850000,
+    "first_price": 1750000,
+    "drop_from_prev": -5.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 744,
+    "psf": 2352,
+    "title": "Exclusive | Vacant | Motivated Seller | Prime Locati",
+    "agency": "Gia & Co Real Esta",
+    "portal_url": "https://www.bayut.com/property/details-14432597.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1750000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -1192,7 +2480,7 @@
     "title": "Furnished | High Floor | Burj & Fountain View",
     "agency": "Property Shop Inve",
     "portal_url": "https://www.bayut.com/property/details-14620432.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1200,6 +2488,34 @@
       {
         "price": 5300000,
         "date": "2026-06-15T19:54:12.262Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "11942183",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2460000,
+    "previous_price": 2600000,
+    "first_price": 2460000,
+    "drop_from_prev": -5.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2120,
+    "psf": 1160,
+    "title": "Vacating soon! Terrace Unit |Rare & Unique Flat",
+    "agency": "Blue Hills Real Es",
+    "portal_url": "https://www.bayut.com/property/details-11942183.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2460000,
+        "date": "2026-06-15T23:46:13.010Z"
       }
     ]
   },
@@ -1220,7 +2536,7 @@
     "title": "High floor | Upgraded | Unfurnished | Marina view",
     "agency": "Betterhomes - Duba",
     "portal_url": "https://www.bayut.com/property/details-14351851.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T23:21:37.140Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -1248,7 +2564,7 @@
     "title": "Full Burj Khalifa View |Vacant | High Floor",
     "agency": "AX CAPITAL Real Es",
     "portal_url": "https://www.bayut.com/property/details-14258929.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1256,6 +2572,90 @@
       {
         "price": 7100000,
         "date": "2026-06-15T19:54:12.262Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14394365",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2700000,
+    "previous_price": 2850000,
+    "first_price": 2700000,
+    "drop_from_prev": -5.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1782,
+    "psf": 1515,
+    "title": "Duplex | Marina Skyline Views | Upgraded",
+    "agency": "White & Co",
+    "portal_url": "https://www.bayut.com/property/details-14394365.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2700000,
+        "date": "2026-06-15T23:46:13.010Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "12732667",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2700000,
+    "previous_price": 2850000,
+    "first_price": 2700000,
+    "drop_from_prev": -5.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1204,
+    "psf": 2243,
+    "title": "Rare Layout | Marina View | High Ceilings",
+    "agency": "White & Co",
+    "portal_url": "https://www.bayut.com/property/details-12732667.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2700000,
+        "date": "2026-06-15T23:46:13.010Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14875473",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 3200000,
+    "previous_price": 3380000,
+    "first_price": 3200000,
+    "drop_from_prev": -5.2,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1187,
+    "psf": 2696,
+    "title": "LOWEST ON THE MARKET | HIGH FLOOR | SEA VIEW",
+    "agency": "Intrust Real Estat",
+    "portal_url": "https://www.bayut.com/property/details-14875473.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 3200000,
+        "date": "2026-06-15T23:46:13.010Z"
       }
     ]
   },
@@ -1276,7 +2676,7 @@
     "title": "Full Fountain View | Luxurious | Vacant | Big Size",
     "agency": "D AND B Properties",
     "portal_url": "https://www.bayut.com/property/details-14462379.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1304,7 +2704,7 @@
     "title": "Spacious 1BR | High Floor | Park View",
     "agency": "Betterhomes - Busi",
     "portal_url": "https://www.bayut.com/property/details-14786579.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.643Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1332,7 +2732,7 @@
     "title": "Balcony | Unfurnished | Spacious Living Room",
     "agency": "Windsor E S T Esta",
     "portal_url": "https://www.bayut.com/property/details-14376703.html",
-    "detected_at": "2026-06-15T19:53:41.825Z",
+    "detected_at": "2026-06-15T23:45:49.041Z",
     "first_seen": "2026-06-14T23:22:00.695Z",
     "drop_count": 0,
     "days_on_market": 1,
@@ -1340,6 +2740,34 @@
       {
         "price": 190000,
         "date": "2026-06-14T23:22:00.695Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14754167",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1900000,
+    "previous_price": 2000000,
+    "first_price": 1900000,
+    "drop_from_prev": -5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 741,
+    "psf": 2564,
+    "title": "Fully Furnished | Ready to Move In | Pool View",
+    "agency": "AQUA Properties",
+    "portal_url": "https://www.bayut.com/property/details-14754167.html",
+    "detected_at": "2026-06-15T23:46:02.179Z",
+    "first_seen": "2026-06-15T23:46:02.179Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1900000,
+        "date": "2026-06-15T23:46:02.179Z"
       }
     ]
   },
@@ -1360,7 +2788,7 @@
     "title": "Fully Upgraded | Vacant Soon | Park Views",
     "agency": "Allsopp & Allsopp",
     "portal_url": "https://www.bayut.com/property/details-14354794.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.644Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1388,7 +2816,7 @@
     "title": "Luxury 2BR | Burj Khalifa View | High Floor",
     "agency": "Luxehomes Dubai",
     "portal_url": "https://www.bayut.com/property/details-14597192.html",
-    "detected_at": "2026-06-15T19:54:12.262Z",
+    "detected_at": "2026-06-15T23:46:07.644Z",
     "first_seen": "2026-06-15T19:54:12.262Z",
     "drop_count": 0,
     "days_on_market": 0,
@@ -1396,6 +2824,62 @@
       {
         "price": 5700000,
         "date": "2026-06-15T19:54:12.262Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14467085",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1900000,
+    "previous_price": 2000000,
+    "first_price": 1900000,
+    "drop_from_prev": -5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 880,
+    "psf": 2159,
+    "title": "Emirates Golf Course View | Prime Location",
+    "agency": "fäm Properties - B",
+    "portal_url": "https://www.bayut.com/property/details-14467085.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1900000,
+        "date": "2026-06-15T23:46:13.010Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14626026",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 3800000,
+    "previous_price": 4000000,
+    "first_price": 3800000,
+    "drop_from_prev": -5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1183,
+    "psf": 3212,
+    "title": "Chiller Free | Furnished | Full Sea View",
+    "agency": "Dacha Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14626026.html",
+    "detected_at": "2026-06-15T23:46:13.010Z",
+    "first_seen": "2026-06-15T23:46:13.010Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 3800000,
+        "date": "2026-06-15T23:46:13.010Z"
       }
     ]
   }
