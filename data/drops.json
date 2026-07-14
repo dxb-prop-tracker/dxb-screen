@@ -1,1 +1,478 @@
-[]
+[
+  {
+    "listing_id": "14259970",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 250000,
+    "previous_price": 300000,
+    "first_price": 250000,
+    "drop_from_prev": -16.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1218,
+    "psf": 205,
+    "title": "Burj View | Luxury Living | Hotel Apartment",
+    "agency": "White & Co",
+    "portal_url": "https://www.bayut.com/property/details-14259970.html",
+    "detected_at": "2026-07-14T17:34:45.122Z",
+    "first_seen": "2026-07-14T17:34:45.122Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 250000,
+        "date": "2026-07-14T17:34:45.122Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14475864",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 137000,
+    "previous_price": 160000,
+    "first_price": 137000,
+    "drop_from_prev": -14.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 638,
+    "psf": 215,
+    "title": "Fully Furnished | Bills Included | Burj View",
+    "agency": "Tyron Ash Internat",
+    "portal_url": "https://www.bayut.com/property/details-14475864.html",
+    "detected_at": "2026-07-14T17:34:45.122Z",
+    "first_seen": "2026-07-14T17:34:45.122Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 137000,
+        "date": "2026-07-14T17:34:45.122Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14464970",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 160000,
+    "previous_price": 180000,
+    "first_price": 160000,
+    "drop_from_prev": -11.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 741,
+    "psf": 216,
+    "title": "Fully Furnished / High Floor / Vacant",
+    "agency": "Mab Develop Projec",
+    "portal_url": "https://www.bayut.com/property/details-14464970.html",
+    "detected_at": "2026-07-14T17:34:45.122Z",
+    "first_seen": "2026-07-14T17:34:45.122Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-07-14T17:34:45.122Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "11301652",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "rent",
+    "current_price": 320000,
+    "previous_price": 360000,
+    "first_price": 320000,
+    "drop_from_prev": -11.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2014,
+    "psf": 159,
+    "title": "Daniels Fully Renovated 3BR + 1 Maids Room | Princes",
+    "agency": "Daniels Luxury Hol",
+    "portal_url": "https://www.bayut.com/property/details-11301652.html",
+    "detected_at": "2026-07-14T17:34:50.734Z",
+    "first_seen": "2026-07-14T17:34:50.734Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 320000,
+        "date": "2026-07-14T17:34:50.734Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14342924",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 140000,
+    "previous_price": 155000,
+    "first_price": 140000,
+    "drop_from_prev": -9.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1519,
+    "psf": 92,
+    "title": "Community View | Fully Furnished | Chiller Free",
+    "agency": "Dacha Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14342924.html",
+    "detected_at": "2026-07-14T17:34:50.734Z",
+    "first_seen": "2026-07-14T17:34:50.734Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-07-14T17:34:50.734Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14471408",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 150000,
+    "previous_price": 165000,
+    "first_price": 150000,
+    "drop_from_prev": -9.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 980,
+    "psf": 153,
+    "title": "Boulevard View | 2BR Apartment | Forte 1 Downtown",
+    "agency": "H & S Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14471408.html",
+    "detected_at": "2026-07-14T17:34:45.123Z",
+    "first_seen": "2026-07-14T17:34:45.123Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 150000,
+        "date": "2026-07-14T17:34:45.123Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14418555",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 105000,
+    "previous_price": 115000,
+    "first_price": 105000,
+    "drop_from_prev": -8.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 712,
+    "psf": 147,
+    "title": "Largest Layout | Prime Location | Fully Furnished",
+    "agency": "haus & haus Real E",
+    "portal_url": "https://www.bayut.com/property/details-14418555.html",
+    "detected_at": "2026-07-14T17:34:50.734Z",
+    "first_seen": "2026-07-14T17:34:50.734Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 105000,
+        "date": "2026-07-14T17:34:50.734Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14343133",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 165000,
+    "previous_price": 180000,
+    "first_price": 165000,
+    "drop_from_prev": -8.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1120,
+    "psf": 147,
+    "title": "Unfurnished | Chiller Free | Sea View",
+    "agency": "Betterhomes - Duba",
+    "portal_url": "https://www.bayut.com/property/details-14343133.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 165000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14051117",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 260000,
+    "previous_price": 280000,
+    "first_price": 260000,
+    "drop_from_prev": -7.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1196,
+    "psf": 217,
+    "title": "Luxury High - Floor 2BR l Fully Furnished l Ready",
+    "agency": "Hamptons Internati",
+    "portal_url": "https://www.bayut.com/property/details-14051117.html",
+    "detected_at": "2026-07-14T17:34:45.123Z",
+    "first_seen": "2026-07-14T17:34:45.123Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 260000,
+        "date": "2026-07-14T17:34:45.123Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14224350",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 130000,
+    "previous_price": 140000,
+    "first_price": 130000,
+    "drop_from_prev": -7.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 848,
+    "psf": 153,
+    "title": "Unfurnished | High Floor Unit | Prime Location",
+    "agency": "Expert Homes Real",
+    "portal_url": "https://www.bayut.com/property/details-14224350.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 130000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14406169",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 140000,
+    "previous_price": 150000,
+    "first_price": 140000,
+    "drop_from_prev": -6.7,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 785,
+    "psf": 178,
+    "title": "Marina View| Next To Metro| Brand New Building",
+    "agency": "M T S Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14406169.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 140000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14267141",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 310000,
+    "previous_price": 330000,
+    "first_price": 310000,
+    "drop_from_prev": -6.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1506,
+    "psf": 206,
+    "title": "Burj Khalifa View | Low Floor | Vacant End of Feb",
+    "agency": "Mon Maison Interna",
+    "portal_url": "https://www.bayut.com/property/details-14267141.html",
+    "detected_at": "2026-07-14T17:34:45.123Z",
+    "first_seen": "2026-07-14T17:34:45.123Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 310000,
+        "date": "2026-07-14T17:34:45.123Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14491750",
+    "area": "Downtown Dubai",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 160000,
+    "previous_price": 170000,
+    "first_price": 160000,
+    "drop_from_prev": -5.9,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1143,
+    "psf": 140,
+    "title": "Large 2BR| Prime Downtown Location | Stunning Amenit",
+    "agency": "Tuanam Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14491750.html",
+    "detected_at": "2026-07-14T17:34:45.123Z",
+    "first_seen": "2026-07-14T17:34:45.123Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 160000,
+        "date": "2026-07-14T17:34:45.123Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14418683",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 170000,
+    "previous_price": 180000,
+    "first_price": 170000,
+    "drop_from_prev": -5.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 945,
+    "psf": 180,
+    "title": "One Bedroom | Vacant | Luxury Jumeirah Living",
+    "agency": "Allsopp & Allsopp",
+    "portal_url": "https://www.bayut.com/property/details-14418683.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 170000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13933206",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 85000,
+    "previous_price": 90000,
+    "first_price": 85000,
+    "drop_from_prev": -5.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 961,
+    "psf": 88,
+    "title": "First Week March I Partial Sea View I Spacious",
+    "agency": "Propfolio Real Est",
+    "portal_url": "https://www.bayut.com/property/details-13933206.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 85000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14436950",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 0,
+    "purpose": "rent",
+    "current_price": 85000,
+    "previous_price": 90000,
+    "first_price": 85000,
+    "drop_from_prev": -5.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 518,
+    "psf": 164,
+    "title": "Fully Upgraded Studio | Furnished | Marina View",
+    "agency": "Square Assets Real",
+    "portal_url": "https://www.bayut.com/property/details-14436950.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 85000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14351851",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "rent",
+    "current_price": 270000,
+    "previous_price": 285000,
+    "first_price": 270000,
+    "drop_from_prev": -5.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 3885,
+    "psf": 69,
+    "title": "High floor | Upgraded | Unfurnished | Marina view",
+    "agency": "Betterhomes - Duba",
+    "portal_url": "https://www.bayut.com/property/details-14351851.html",
+    "detected_at": "2026-07-14T17:34:50.735Z",
+    "first_seen": "2026-07-14T17:34:50.735Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 270000,
+        "date": "2026-07-14T17:34:50.735Z"
+      }
+    ]
+  }
+]
