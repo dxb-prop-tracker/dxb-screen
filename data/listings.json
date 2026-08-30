@@ -1,1 +1,618 @@
-[]
+[
+  {
+    "listing_id": "14624885",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 3150000,
+    "previous_price": 4600000,
+    "first_price": 3150000,
+    "drop_from_prev": -31.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1610,
+    "psf": 1957,
+    "title": "Exclusive | Iconic Skyline Views | Designer Home",
+    "agency": "Huspy Dubai",
+    "portal_url": "https://www.bayut.com/property/details-14624885.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 3150000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14585344",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 9250000,
+    "previous_price": 11000000,
+    "first_price": 9250000,
+    "drop_from_prev": -15.9,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4390,
+    "psf": 2107,
+    "title": "High-End Turnkey | Extended | Vacant",
+    "agency": "Provident Real Est",
+    "portal_url": "https://www.bayut.com/property/details-14585344.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 9250000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13983957",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 10500000,
+    "previous_price": 12000000,
+    "first_price": 10500000,
+    "drop_from_prev": -12.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 3627,
+    "psf": 2895,
+    "title": "Fully Upgraded | Vacant on Transfer | Park View",
+    "agency": "Savills Dubai",
+    "portal_url": "https://www.bayut.com/property/details-13983957.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 10500000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14472116",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 8680000,
+    "previous_price": 9800000,
+    "first_price": 8680000,
+    "drop_from_prev": -11.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4786,
+    "psf": 1814,
+    "title": "Upgraded | Extended | Private Pool",
+    "agency": "fäm Properties - B",
+    "portal_url": "https://www.bayut.com/property/details-14472116.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 8680000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14490343",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 8680000,
+    "previous_price": 9800000,
+    "first_price": 8680000,
+    "drop_from_prev": -11.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4786,
+    "psf": 1814,
+    "title": "Extended | Private Pool | Close to Park",
+    "agency": "LuxuryX Agents",
+    "portal_url": "https://www.bayut.com/property/details-14490343.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 8680000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14570944",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5500000,
+    "previous_price": 6200000,
+    "first_price": 5500000,
+    "drop_from_prev": -11.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2880,
+    "psf": 1910,
+    "title": "4 Bedroom Villa | Maple 2 | Single Row",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14570944.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5500000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14756968",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 8500000,
+    "previous_price": 9500000,
+    "first_price": 8500000,
+    "drop_from_prev": -10.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4359,
+    "psf": 1950,
+    "title": "Upgraded | Extended | Vastu Compliant",
+    "agency": "Allsopp & Allsopp",
+    "portal_url": "https://www.bayut.com/property/details-14756968.html",
+    "detected_at": "2026-08-30T14:41:30.689Z",
+    "first_seen": "2026-08-30T14:41:30.689Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 8500000,
+        "date": "2026-08-30T14:41:30.689Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14503346",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 3300000,
+    "previous_price": 3650000,
+    "first_price": 3300000,
+    "drop_from_prev": -9.6,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1610,
+    "psf": 2050,
+    "title": "Pool View | Upgraded | Vacant on Transfer",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14503346.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 3300000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "12947968",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2400000,
+    "previous_price": 2650000,
+    "first_price": 2400000,
+    "drop_from_prev": -9.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1021,
+    "psf": 2351,
+    "title": "Brand New and Fully Upgraded Kitchen | Furnished",
+    "agency": "Driven Properties",
+    "portal_url": "https://www.bayut.com/property/details-12947968.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2400000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14497874",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1950000,
+    "previous_price": 2150000,
+    "first_price": 1950000,
+    "drop_from_prev": -9.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 958,
+    "psf": 2035,
+    "title": "Vacant Now | Best Price | Great Investment",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14497874.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1950000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14612192",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "sale",
+    "current_price": 1790000,
+    "previous_price": 1950000,
+    "first_price": 1790000,
+    "drop_from_prev": -8.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 940,
+    "psf": 1904,
+    "title": "High Quality | Large Size | Enquire Today",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14612192.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1790000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14585101",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "sale",
+    "current_price": 7700000,
+    "previous_price": 8400000,
+    "first_price": 7700000,
+    "drop_from_prev": -8.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 3123,
+    "psf": 2466,
+    "title": "Great Location | Vacant On Transfer | Viewable",
+    "agency": "haus & haus Real E",
+    "portal_url": "https://www.bayut.com/property/details-14585101.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 7700000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14406144",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 5,
+    "purpose": "sale",
+    "current_price": 28500000,
+    "previous_price": 30750000,
+    "first_price": 28500000,
+    "drop_from_prev": -7.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 10371,
+    "psf": 2748,
+    "title": "LARGE CORNER PLOT | AREA SPECIALIST | VIEWABLE",
+    "agency": "Houstetic Properti",
+    "portal_url": "https://www.bayut.com/property/details-14406144.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 28500000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14493430",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5750000,
+    "previous_price": 6200000,
+    "first_price": 5750000,
+    "drop_from_prev": -7.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2462,
+    "psf": 2335,
+    "title": "Park Backing | Vacant June | Large Plot",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14493430.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5750000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "13508892",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 5,
+    "purpose": "sale",
+    "current_price": 16000000,
+    "previous_price": 17250000,
+    "first_price": 16000000,
+    "drop_from_prev": -7.2,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4283,
+    "psf": 3736,
+    "title": "Best location | Large 5 Bedroom Villa | Upgraded",
+    "agency": "AEON & Trisl Real",
+    "portal_url": "https://www.bayut.com/property/details-13508892.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 16000000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14084231",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 4,
+    "purpose": "sale",
+    "current_price": 5500000,
+    "previous_price": 5900000,
+    "first_price": 5500000,
+    "drop_from_prev": -6.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 2462,
+    "psf": 2234,
+    "title": "Greenbelt | Vacant on Transfer | 4 Bed",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14084231.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 5500000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14610507",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 5,
+    "purpose": "sale",
+    "current_price": 27500000,
+    "previous_price": 29500000,
+    "first_price": 27500000,
+    "drop_from_prev": -6.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 7486,
+    "psf": 3674,
+    "title": "Prime Location | Lagoon Backing | Community Expert",
+    "agency": "Strada Real Estate",
+    "portal_url": "https://www.bayut.com/property/details-14610507.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 27500000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14515882",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1630000,
+    "previous_price": 1740000,
+    "first_price": 1630000,
+    "drop_from_prev": -6.3,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 723,
+    "psf": 2254,
+    "title": "Vacant I Community View I Prime Location",
+    "agency": "haus & haus Real E",
+    "portal_url": "https://www.bayut.com/property/details-14515882.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1630000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14347178",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1600000,
+    "previous_price": 1700000,
+    "first_price": 1600000,
+    "drop_from_prev": -5.8,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 724,
+    "psf": 2210,
+    "title": "Spacious | Mall View | Prime Location | High ROI",
+    "agency": "Knightsbridge Prop",
+    "portal_url": "https://www.bayut.com/property/details-14347178.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1600000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14246550",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 2200000,
+    "previous_price": 2330000,
+    "first_price": 2200000,
+    "drop_from_prev": -5.5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1158,
+    "psf": 1900,
+    "title": "Distress Deal EMAAR | Motivated Seller | Off-Plan 2B",
+    "agency": "Rawlins Properties",
+    "portal_url": "https://www.bayut.com/property/details-14246550.html",
+    "detected_at": "2026-08-30T14:41:30.690Z",
+    "first_seen": "2026-08-30T14:41:30.690Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 2200000,
+        "date": "2026-08-30T14:41:30.690Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14432597",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1750000,
+    "previous_price": 1850000,
+    "first_price": 1750000,
+    "drop_from_prev": -5.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 744,
+    "psf": 2352,
+    "title": "Exclusive | Vacant | Motivated Seller | Prime Locati",
+    "agency": "Gia & Co Real Esta",
+    "portal_url": "https://www.bayut.com/property/details-14432597.html",
+    "detected_at": "2026-08-30T14:41:30.691Z",
+    "first_seen": "2026-08-30T14:41:30.691Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1750000,
+        "date": "2026-08-30T14:41:30.691Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14754167",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "sale",
+    "current_price": 1900000,
+    "previous_price": 2000000,
+    "first_price": 1900000,
+    "drop_from_prev": -5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 741,
+    "psf": 2564,
+    "title": "Fully Furnished | Ready to Move In | Pool View",
+    "agency": "AQUA Properties",
+    "portal_url": "https://www.bayut.com/property/details-14754167.html",
+    "detected_at": "2026-08-30T14:41:30.691Z",
+    "first_seen": "2026-08-30T14:41:30.691Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 1900000,
+        "date": "2026-08-30T14:41:30.691Z"
+      }
+    ]
+  }
+]
