@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "listing_id": "14442632",
+    "area": "Dubai Hills Estate",
+    "type": "Villa",
+    "beds": 3,
+    "purpose": "rent",
+    "current_price": 400000,
+    "previous_price": 450000,
+    "first_price": 400000,
+    "drop_from_prev": -11.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 4522,
+    "psf": 88,
+    "title": "Corner Villa | Large Plot | Greenbelt Backing",
+    "agency": "Huspy Dubai",
+    "portal_url": "https://www.bayut.com/property/details-14442632.html",
+    "detected_at": "2026-09-06T23:44:20.771Z",
+    "first_seen": "2026-09-06T23:44:20.771Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 400000,
+        "date": "2026-09-06T23:44:20.771Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14464250",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 162000,
+    "previous_price": 175000,
+    "first_price": 162000,
+    "drop_from_prev": -7.4,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1028,
+    "psf": 158,
+    "title": "Multiple Cheques | Boulevard View | Chiller Free",
+    "agency": "fäm Properties - B",
+    "portal_url": "https://www.bayut.com/property/details-14464250.html",
+    "detected_at": "2026-09-06T23:44:20.772Z",
+    "first_seen": "2026-09-06T23:44:20.772Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 162000,
+        "date": "2026-09-06T23:44:20.772Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14180777",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 1,
+    "purpose": "rent",
+    "current_price": 108000,
+    "previous_price": 115000,
+    "first_price": 108000,
+    "drop_from_prev": -6.1,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 645,
+    "psf": 167,
+    "title": "EXCLUSIVE | Fully Furnished | Ready To Move in",
+    "agency": "Engel & Voelkers D",
+    "portal_url": "https://www.bayut.com/property/details-14180777.html",
+    "detected_at": "2026-09-06T23:44:20.772Z",
+    "first_seen": "2026-09-06T23:44:20.772Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 108000,
+        "date": "2026-09-06T23:44:20.772Z"
+      }
+    ]
+  },
+  {
+    "listing_id": "14376703",
+    "area": "Dubai Hills Estate",
+    "type": "Apartment",
+    "beds": 2,
+    "purpose": "rent",
+    "current_price": 190000,
+    "previous_price": 200000,
+    "first_price": 190000,
+    "drop_from_prev": -5,
+    "drop_from_first": 0,
+    "saved_aed": 0,
+    "sqft": 1255,
+    "psf": 151,
+    "title": "Balcony | Unfurnished | Spacious Living Room",
+    "agency": "Windsor E S T Esta",
+    "portal_url": "https://www.bayut.com/property/details-14376703.html",
+    "detected_at": "2026-09-06T23:44:20.772Z",
+    "first_seen": "2026-09-06T23:44:20.772Z",
+    "drop_count": 0,
+    "days_on_market": 0,
+    "price_history": [
+      {
+        "price": 190000,
+        "date": "2026-09-06T23:44:20.772Z"
+      }
+    ]
+  }
+]
